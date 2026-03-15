@@ -40,7 +40,7 @@
 <h3>1.4 History of HTML</h3>
      HTML was created by <b>Tim Berners-Lee</b>.<br>
  <b>* Important versions:</b><br>
-         | Year | Version |
+| Year | Version |
 |------|---------|
 | 1991 | HTML created |
 | 1993 | HTML 1.0 |
