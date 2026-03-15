@@ -163,5 +163,18 @@ Students
 
 Here<br>
 <b>href</b> is an attribute.
+<br>
 
+<h3>1.12 HTML Attributes</h3>
+Attributes are always written as:<br>
+name="value"<br>
+<b>Example:</b>
+```html
+<img src="image.jpg" alt="photo" width="200">
+```
+
+<b>Explanation:</b><br>
+1. src : image location<br>
+2. alt : image description<br>
+3. width:image size<br>
 
