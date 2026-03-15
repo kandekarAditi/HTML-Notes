@@ -90,8 +90,10 @@
 <h3>1.7 HTML Tags</h3>
     HTML tags are keywords inside angle brackets < > used to create elements.<br>
 <b>Example:</b>
-```<h1>Heading</h1>
-<p>Paragraph</p>```
+```html
+<h1>Heading</h1>
+<p>Paragraph</p>
+```
 
-Here
-<h1> and <p> are HTML tags.
+Here<br>
+`<h1>` and `<p>` are HTML tags.
