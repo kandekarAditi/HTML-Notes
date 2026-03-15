@@ -48,12 +48,12 @@
           2012	       HTML5<br>
  <b>HTML5</b> is the latest and most used version.<br>
 
-<h3>1.5 Advantages and Disadvantages of HTML Advantages</h3><br>
+<h3>1.5 Advantages and Disadvantages of HTML Advantages</h3>
  <b>Advantages:</b><br>
     ✔ Easy to learn<br>
     ✔ Supported by all browsers<br>
     ✔ Used to create websites<br>
 
 <b>Disadvantages:</b><br>
-   ❌ Creates only static pages
-   ❌ Needs CSS and JavaScript for design and functionality
+   ❌ Creates only static pages<br>
+   ❌ Needs CSS and JavaScript for design and functionality<br>
