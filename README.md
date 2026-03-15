@@ -40,7 +40,7 @@
 <h3>1.4 History of HTML</h3>
      HTML was created by <b>Tim Berners-Lee</b>.<br>
  <b>* Important versions:</b><br>
-          Year <span></span>Version<br>
+          Year        Version<br>
           1991	       HTML created<br>
           1993	       HTML 1.0<br>
           1995	       HTML 2.0<br>
@@ -48,3 +48,12 @@
           2012	       HTML5<br>
  <b>HTML5</b> is the latest and most used version.<br>
 
+<h3>1.5 Advantages and Disadvantages of HTML Advantages</h3><br>
+ <b>Advantages:</b><br>
+    ✔ Easy to learn<br>
+    ✔ Supported by all browsers<br>
+    ✔ Used to create websites<br>
+
+<b>Disadvantages:</b><br>
+   ❌ Creates only static pages
+   ❌ Needs CSS and JavaScript for design and functionality
