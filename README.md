@@ -60,22 +60,6 @@
 
 <h3>1.6 Basic Structure of HTML Page</h3>
      Every HTML page has a basic structure.<br>
-<b>Example:</b><br>
-
-<h4><!DOCTYPE html>
-<html>
-<head>
-<title>My Website</title>
-</head>
-
-<body>
-
-<h1>Welcome</h1>
-<p>This is my webpage</p>
-
-</body>
-</html></h4><br>
-
 <b>Explanation:</b>
 1.html:	Main HTML document<br>
 2.head:	Information about webpage<br>
