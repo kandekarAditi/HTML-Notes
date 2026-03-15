@@ -60,7 +60,7 @@
 
 <h3>1.6 Basic Structure of HTML Page</h3>
      Every HTML page has a basic structure.<br>
- ## Basic HTML Structure
+# Basic HTML Structure
 
 ```html
 <!DOCTYPE html>
@@ -77,7 +77,11 @@
 </html>
 ```
 <b>Explanation:</b><br>
-1.html:	Main HTML document<br>
-2.head:	Information about webpage<br>
-3.title:Title in browser tab<br>
-4.body:	Visible content<br>
+| Tag | Meaning |
+|-----|---------|
+| <html> | Main HTML document |
+| <head> | Information about webpage |
+| <title> | Title in browser tab |
+| <body> | Visible content |
+
+
