@@ -137,11 +137,31 @@ Students
 <h3>1.10 HTML Basic Content Tags</h3>
     Common tags used to display content.<br>
 | Tag      | Use             |<br>
-| -------- | --------------- |<br>
+| -------- | ---------- |<br>
 | &lt h1 > | Heading         |<br>
 | &lt p >  | Paragraph       |<br>
 | &lt br > | Line break      |<br>
 | &lt hr > | Horizontal line |<br>
 
+<b>Example:</b><br>
+```html
+<h1>HTML Class</h1>
+<p>This is paragraph.</p>
+<br>
+<hr>
+```
+<br>
+<h3>1.11 What is Attribute</h3>
+    An attribute provides extra information about an HTML tag.<br>
+    Attributes are written inside the start tag.<br>
+
+<b>Example:</b><br>
+
+```html
+<a href="https://google.com">Google</a>
+```
+
+Here<br>
+<b>href</b> is an attribute.
 
 
