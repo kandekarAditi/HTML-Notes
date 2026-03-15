@@ -138,7 +138,7 @@ Students
     Common tags used to display content.<br>
 | Tag | Use |
 |-----|-----|
-| &lt;h1&gt; | Heading |
-| &lt;p&gt; | Paragraph |
-| &lt;br&gt; | Line break |
-| &lt;hr&gt; | Horizontal line |
+| `<h1>` | Heading |
+| `<p>` | Paragraph |
+| `<br>` | Line break |
+| `<hr>` | Horizontal line |
