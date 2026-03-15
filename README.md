@@ -79,9 +79,8 @@
 <b>Explanation:</b><br>
 | Tag | Meaning |
 |-----|---------|
-| <html> | Main HTML document |
-| <head> | Information about webpage |
-| <title> | Title in browser tab |
-| <body> | Visible content |
-
+| `<html>` | Main HTML document |
+| `<head>` | Information about webpage |
+| `<title>` | Title in browser tab |
+| `<body>` | Visible content |
 
