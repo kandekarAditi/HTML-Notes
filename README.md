@@ -169,9 +169,11 @@ Here<br>
 Attributes are always written as:<br>
 name="value"<br>
 <b>Example:</b>
+
 ```html
 <img src="image.jpg" alt="photo" width="200">
 ```
+
 
 <b>Explanation:</b><br>
 1. src : image location<br>
