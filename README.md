@@ -114,4 +114,21 @@ Here<br>
 |------|---------|
 | `<p>` | Start tag |
 | Text | Content |
-| `</p>` | End tag |
+| `</p>` | End tag |<br>
+
+
+<h3>1.9 Empty Tags</h3>
+   Empty tags do not have a closing tag because they contain no content.<br>
+<b>Examples:</b>
+   1.`<br>`<br>
+   2.`<hr>`<br>
+   3.`<img>`<br>
+<b>Example:</b>
+
+```html
+<p>Hello<br>Students</p>
+<hr>
+```
+<b>Output:</b>
+Hello
+Students
