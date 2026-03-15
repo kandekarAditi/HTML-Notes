@@ -1,32 +1,17 @@
 Lecture 1: Introduction to HTML
-     1.1 What is HTML
-     1.2 What is a Web Page
-     1.3 What is a Web Browser
-     1.4 History of HTML
-     1.5 Advantages of HTML
-     1.6 Basic Structure of HTML Page
-     1.7 HTML Basic Tags
-     1.8 HTML Tags
-     1.9 HTML Elements
-     1.10 Opening Tag and Closing Tag
-     1.11 Empty Tags
-     1.12 HTML Basic Content Tags
-     1.13 Heading Tags (h1 to h6)
-     1.14 Paragraph Tag (p)
-     1.15 Line Break (br)
-     1.16 Horizontal Line (hr)
-     1.17 HTML Text Formatting
-     1.18 Bold (b)
-     1.19 Italic (i)
-     1.20 Underline (u)
-     1.21 Strong Tag (strong)
-     1.22 HTML Attributes
-     1.23 What is Attribute
-     1.24 Example of Attribute (href, src)
-     1.25 Simple Practice
-     1.26 Create first HTML page
-     1.27 Add heading and paragraph
-     1.28 Add line break and horizontal line
+     1.1 What is HTML<br>
+     1.2 What is a Web Page<br>
+     1.3 What is a Web Browser<br>
+     1.4 History of HTML<br>
+     1.5 Advantages and Disadvantages of HTML<br>
+     1.6 Basic Structure of HTML Page<br>
+     1.7 HTML Tags<br>
+     1.8 HTML Elements<br>
+     1.9 Empty Tags<br>
+     1.10 HTML Basic Content Tags
+     1.11 What is Attribute
+     1.12 HTML Attributes
+    
 
 
 <h3>What is HTML?</h3><br>
