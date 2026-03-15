@@ -77,7 +77,7 @@
 </html>
 ```
 <b>Explanation:</b><br>
-| Tag | Meaning | 
+| Tag | Meaning |
 |-----|---------|
 | <html> | Main HTML document |
 | <head> | Information about webpage |
