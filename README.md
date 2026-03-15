@@ -57,3 +57,27 @@
 <b>Disadvantages:</b><br>
    ❌ Creates only static pages<br>
    ❌ Needs CSS and JavaScript for design and functionality<br>
+
+<h3>1.6 Basic Structure of HTML Page</h3>
+     Every HTML page has a basic structure.<br>
+<b>Example:</b><br>
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>My Website</title>
+</head>
+
+<body>
+
+<h1>Welcome</h1>
+<p>This is my webpage</p>
+
+</body>
+</html><br>
+
+<b>Explanation:</b>
+<html>:	Main HTML document<br>
+<head>:	Information about webpage<br>
+<title>:	Title in browser tab<br>
+<body>:	Visible content<br>
