@@ -132,3 +132,13 @@ Here<br>
 <b>Output:</b><br>
 Hello<br>
 Students
+<br>
+
+<h3>1.10 HTML Basic Content Tags</h3>
+    Common tags used to display content.<br>
+| Tag | Use |
+|-----|-----|
+| &lt;h1&gt; | Heading |
+| &lt;p&gt; | Paragraph |
+| &lt;br&gt; | Line break |
+| &lt;hr&gt; | Horizontal line |
