@@ -74,10 +74,10 @@
 <p>This is my webpage</p>
 
 </body>
-</html></body>h4><br>
+</html></h4><br>
 
 <b>Explanation:</b>
-1.<html>:	Main HTML document<br>
-2.<head>:	Information about webpage<br>
-3.<title>:Title in browser tab<br>
-4.<body>:	Visible content<br>
+1.html:	Main HTML document<br>
+2.head:	Information about webpage<br>
+3.title:Title in browser tab<br>
+4.body:	Visible content<br>
