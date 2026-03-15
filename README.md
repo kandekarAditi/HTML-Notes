@@ -86,13 +86,32 @@
 | `<title>` | Title in browser tab |
 | `<body>` | Visible content |
 
+<br>
+
 
 <h3>1.7 HTML Tags</h3>
    HTML tags are keywords inside angle brackets < > used to create elements.<br>
 <b>Example:</b><br>
 
-`<h1>Heading</h1>`
+`<h1>Heading</h1>`<br>
 `<p>Paragraph</p>`
 
 Here<br>
 `<h1>` and `<p>` are HTML tags.
+
+<br>
+
+<h3>1.8 HTML Elements</h3>
+    An HTML element includes:<br>
+        Start tag + Content + End tag.<br>
+
+<b>Example:</b>
+
+`<p>This is a paragraph</p>`
+
+<b>Explanation:</b>
+     | Part | Meaning |
+|------|---------|
+| `<p>` | Start tag |
+| Text | Content |
+| `</p>` | End tag |
