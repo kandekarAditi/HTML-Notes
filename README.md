@@ -9,13 +9,13 @@
      1.7 HTML Tags<br>
      1.8 HTML Elements<br>
      1.9 Empty Tags<br>
-     1.10 HTML Basic Content Tags
-     1.11 What is Attribute
-     1.12 HTML Attributes
+     1.10 HTML Basic Content Tags<br>
+     1.11 What is Attribute<br>
+     1.12 HTML Attributes<br>
     
 
 
-<h3>What is HTML?</h3><br>
+<h3>What is HTML?</h3>
 HTML stands for Hyper Text Markup Language.<br>
 HTML is the standard markup language for creating Web pages.<br>
 HTML describes the structure of a Web page.<br>
