@@ -87,13 +87,13 @@
 | `<body>` | Visible content |
 
 
-<h3>1.7 HTML Tags</h3>
-    HTML tags are keywords inside angle brackets < > used to create elements.<br>
-<b>Example:</b>
-```html
+1.7 HTML Tags
+
+HTML tags are keywords inside angle brackets < > used to create elements.
+
+Example:
+
 <h1>Heading</h1>
 <p>Paragraph</p>
-```
 
-Here<br>
-`<h1>` and `<p>` are HTML tags.
+Here <h1> and <p> are HTML tags.
