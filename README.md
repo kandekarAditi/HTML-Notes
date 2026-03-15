@@ -62,7 +62,7 @@
      Every HTML page has a basic structure.<br>
 <b>Example:</b><br>
 
-<!DOCTYPE html>
+<h4><!DOCTYPE html>
 <html>
 <head>
 <title>My Website</title>
@@ -74,10 +74,10 @@
 <p>This is my webpage</p>
 
 </body>
-</html><br>
+</html></body>h4><br>
 
 <b>Explanation:</b>
-<html>:	Main HTML document<br>
-<head>:	Information about webpage<br>
-<title>:	Title in browser tab<br>
-<body>:	Visible content<br>
+1.<html>:	Main HTML document<br>
+2.<head>:	Information about webpage<br>
+3.<title>:Title in browser tab<br>
+4.<body>:	Visible content<br>
