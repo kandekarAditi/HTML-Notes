@@ -120,9 +120,9 @@ Here<br>
 <h3>1.9 Empty Tags</h3>
    Empty tags do not have a closing tag because they contain no content.<br>
 <b>Examples:</b>
-   1.`<br>`<br>
-   2.`<hr>`<br>
-   3.`<img>`<br>
+  1. `<br>`
+  2. `<hr>`
+  3. `<img>`
 <b>Example:</b>
 
 ```html
@@ -130,5 +130,5 @@ Here<br>
 <hr>
 ```
 <b>Output:</b>
-Hello
+Hello<br>
 Students
