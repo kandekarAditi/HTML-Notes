@@ -24,7 +24,7 @@
 
 <h3>1.2 What is a Web Page</h3>
    A web page is a document on the internet that is written in HTML and displayed in a browser.<br>
-<b>Example<b></b>:<br>
+<b>Example</b>:<br>
   1.Home page of a website<br>
   2.Contact page<br>
   3.About page<br>
@@ -40,7 +40,7 @@
 <h3>1.4 History of HTML</h3>
      HTML was created by <b>Tim Berners-Lee</b>.<br>
  <b>* Important versions:</b><br>
-       <b>Year</b> <b>Version</b><br>
+          Year <span></span>Version<br>
           1991	       HTML created<br>
           1993	       HTML 1.0<br>
           1995	       HTML 2.0<br>
