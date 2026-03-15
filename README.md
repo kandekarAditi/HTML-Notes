@@ -136,11 +136,12 @@ Students
 
 <h3>1.10 HTML Basic Content Tags</h3>
     Common tags used to display content.<br>
-| Tag  | Use             |
-| ---- | --------------- |
-| <h1> | Heading         |
-| <p>  | Paragraph       |
-| <br> | Line break      |
-| <hr> | Horizontal line |
+| Tag      | Use             |
+| -------- | --------------- |
+| &lt h1 > | Heading         |
+| &lt p >  | Paragraph       |
+| &lt br > | Line break      |
+| &lt hr > | Horizontal line |
+
 
 
