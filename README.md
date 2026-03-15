@@ -1,4 +1,5 @@
-Lecture 1: Introduction to HTML
+<B>Lecture-01</B>:<br>
+<h3>1.Introduction to HTML</h3><br>
      1.1 What is HTML<br>
      1.2 What is a Web Page<br>
      1.3 What is a Web Browser<br>
