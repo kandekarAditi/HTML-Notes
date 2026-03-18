@@ -180,6 +180,29 @@ Used to style text.<br>
 | `<u>`      | Underline                  |
 | `<mark>`   | Highlight text             |
 | `<small>`  | Small text                 |
+<br>
+ <h3>✅ Example</h3><br>
+
+```html
+<p>This is <b>bold</b> text</p><br>
+<p>This is <i>italic</i> text</p><br>
+<p>This is <u>underline</u> text</p><br>
+<p>This is <mark>highlight</mark> text</p><br>
+
+<h3>2.4HTML Comments</h3>
+Used to <b>write notes in code (not visible in browser)</b><br>
+
+<h3>✅ Example</h3><br>
+```html
+<!-- This is a comment --><br>
+<p>Hello Students</p><br>
+
+<h3>2.5HTML Links</h3>
+Used to<b> connect one page to another</b><br>
+Tag: <a><br>
+Attributes:<br.
+    href → link address<br>
+    target="_blank" → open in new tab<br>
 
 
 
