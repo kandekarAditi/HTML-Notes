@@ -229,3 +229,36 @@ Tag: &lt;img&gt; (empty tag)<br>
 | `alt`            | Description       |
 | `width`          | Image width       |
 | `height`         | Image height      |
+<br>
+<h3>✅ Example:</h3><br>
+```html
+<img src="image.jpg" alt="my image" width="200">
+```
+<br>
+<h3>2.7 Lists:</h3>
+<h3>Q) What is an HTML List?</h3>
+HTML lists are used to group related items in a structured way on a web page.<br>
+
+<h3>Types of Lists:</h3>
+There are <b></b>3 types</b> of lists in HTML:<br>
+1.Ordered List<br>
+2.Unordered List<br>
+3.Description List<br>
+
+<h3>1.Ordered List:</h3>
+Used when order matters.<br>
+Tag Used: `<ol>`<br>
+<h3>✅ Example:</h3><br>
+```html
+<ol>
+  <li>Wake up</li>
+  <li>Brush teeth</li>
+  <li>Go to college</li>
+</ol>
+```
+<br>
+<h3>🔸 Ordered List Attributes</h3>
+| Attribute | Description        | Example            |
+|----------|--------------------|--------------------|
+| `type`   | Type of numbering  | A, a, I, i, 1      |
+| `start`  | Starting number    | `start="5"`        |
