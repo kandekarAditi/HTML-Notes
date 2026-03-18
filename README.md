@@ -247,7 +247,9 @@ There are <b></b>3 types</b> of lists in HTML:<br>
 
 <h3>1.Ordered List:</h3>
 Used when order matters.<br>
+
 Tag Used: &lt;ol&gt;<br>
+
 <h3>✅ Example:</h3><br>
      
 ```html
@@ -286,11 +288,42 @@ i → Small Roman (i, ii, iii)<br>
 <h3>What is start?</h3>
 start is used to set the starting number of the list.<br>
 
-📌 Example:<br>
+<h3>✅ Example:</h3><br>
 ```html
 <ol start="5">
   <li>Item</li>
   <li>Item</li>
 </ol>
 ```
+<br>
+<h3>Unordered List:</h3>
+Used when order is NOT important (bullet points).<br>
+
+Tag Used: &lt;ul&gt;<br>
+
+<h3>✅ Example:</h3><br>
+
+```html
+<ul>
+  <li>Tea</li>
+  <li>Coffee</li>
+  <li>Milk</li>
+</ul>
+```
+<h3>Bullet Types (CSS used mostly):</h3>
+Values:
+1.disc (default)
+2.circle
+3.square
+4.none
+<h3>✅ Example:</h3><br>
+```html
+<ul type="square">
+  <li>Pen</li>
+  <li>Pencil</li>
+</ul>
+```
+<h3>Description List (Definition List):</h3>
+Used to define terms and descriptions.<br>
+Tags Used:
 
