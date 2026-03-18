@@ -188,7 +188,7 @@ Used to style text.<br>
 <p>This is <i>italic</i> text</p><br>
 <p>This is <u>underline</u> text</p><br>
 <p>This is <mark>highlight</mark> text</p><br>
-
+```
 <h3>2.4HTML Comments</h3>
 Used to <b>write notes in code (not visible in browser)</b><br>
 
