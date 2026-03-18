@@ -312,21 +312,22 @@ Tag Used: &lt;ul&gt;<br>
 ```
 <h3>Bullet Types (CSS used mostly):</h3>
 Values:
-1.disc (default)
-2.circle
-3.square
-4.none
+1.disc (default)<br>
+2.circle<br>
+3.square<br>
+4.none<br>
 <h3>✅ Example:</h3><br>
 ```html
-<ul style="list-style-type: square;">
-  <li>Pen</li>
-  <li>Pencil</li>
-</ul>
+<ol type="A" start="3">
+  <li>Apple</li>
+  <li>Mango</li>
+</ol>
 ```
+<br>
 <h3>Description List (Definition List):</h3>
 Used to define terms and descriptions.<br>
 Tags Used:<br>
-1. ``<dl>`` → Description List
-2.``<dt>`` → Term
-3.``<dd>`` → Description
+1. &lt;dl&gt; → Description List  
+2. &lt;dt&gt; → Term  
+3. &lt;dd&gt; → Description  
 
