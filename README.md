@@ -325,5 +325,10 @@ Values:
 ```
 <h3>Description List (Definition List):</h3>
 Used to define terms and descriptions.<br>
-Tags Used:
+Tags Used:<br>
+- `<dl>` → Description List  <br>
+- `<dt>` → Term  <br>
+- `<dd>` → Description<br>
+     
+
 
