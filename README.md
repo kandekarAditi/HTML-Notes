@@ -247,8 +247,9 @@ There are <b></b>3 types</b> of lists in HTML:<br>
 
 <h3>1.Ordered List:</h3>
 Used when order matters.<br>
-Tag Used: `<ol>`<br>
+Tag Used: &lt;ol&gt;<br>
 <h3>✅ Example:</h3><br>
+     
 ```html
 <ol>
   <li>Wake up</li>
@@ -258,7 +259,7 @@ Tag Used: `<ol>`<br>
 ```
 <br>
 <h3>🔸 Ordered List Attributes</h3>
-| Attribute | Description        | Example            |
-|----------|--------------------|--------------------|
-| `type`   | Type of numbering  | A, a, I, i, 1      |
-| `start`  | Starting number    | `start="5"`        |
+| Attribute| Description        | Example           |<br.
+|----------|--------------------|-------------------|<br>
+| `type`   | Type of numbering  | A, a, I, i, 1     |<br>
+| `start`  | Starting number    | `start="5"`       |<br>
