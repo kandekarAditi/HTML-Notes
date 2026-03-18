@@ -218,8 +218,9 @@ Attributes:<br>
 <h3>2.6 HTML Images</h3>
 <b></b>Used to display images</b><br>
 
-<h3></h3> 🖼️ Image Tag</h3>
+<h3></h3> 🖼️ Image Tag</h3><br>
 Tag: `<img>` (empty tag)<br>
+
 <h3>📌 Attributes:</h3>
 
 | Attribute        | Use               |
