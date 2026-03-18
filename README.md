@@ -259,7 +259,8 @@ Tag Used: &lt;ol&gt;<br>
 ```
 <br>
 <h3>🔸 Ordered List Attributes</h3>
-| Attribute | Description        | Example        |
-|-----------|--------------------|----------------|
-| `type`    | Type of numbering  | A, a, I, i, 1 |
-| `start`   | Starting number    | `start="5"`   |
+<b>type</b> → Type of numbering  <br>
+  <b>Example</b>: A, a, I, i, 1  <br>
+
+<b>start</b> → Starting number <br> 
+  Example: `start="5"`  <br>
