@@ -260,7 +260,7 @@ Tag Used: &lt;ol&gt;<br>
 </ol>
 ```
 <br>
-<h3>🔸 Ordered List Attributes</h3>
+<h3>1. Ordered List Attributes</h3>
 <b>type</b> → Type of numbering  <br><br>
   <b>Example</b>: A, a, I, i, 1  <br>
 
@@ -296,7 +296,7 @@ start is used to set the starting number of the list.<br>
 </ol>
 ```
 <br>
-<h3>Unordered List:</h3>
+<h3>2. Unordered List:</h3>
 Used when order is NOT important (bullet points).<br>
 
 Tag Used: &lt;ul&gt;<br>
@@ -324,7 +324,7 @@ Values:
 </ol>
 ```
 <br>
-<h3>Description List (Definition List):</h3>
+<h3>3. Description List (Definition List):</h3>
 Used to define terms and descriptions.<br>
 Tags Used:<br>
 1. &lt;dl&gt; → Description List  <br>
