@@ -1,18 +1,3 @@
-<B>Lecture-01</B>:<br>
-<h3>1.Introduction to HTML</h3>
-     1.1 What is HTML<br>
-     1.2 What is a Web Page<br>
-     1.3 What is a Web Browser<br>
-     1.4 History of HTML<br>
-     1.5 Advantages and Disadvantages of HTML<br>
-     1.6 Basic Structure of HTML Page<br>
-     1.7 HTML Tags<br>
-     1.8 HTML Elements<br>
-     1.9 Empty Tags<br>
-     1.10 HTML Basic Content Tags<br>
-     1.11 What is Attribute<br>
-     1.12 HTML Attributes<br>
-    
 <h3>1.1 What is HTML?</h3>
      HTML stands for Hyper Text Markup Language.<br>
      HTML is the standard markup language for creating Web pages.<br>
@@ -151,7 +136,10 @@ Students
 <hr>
 ```
 <br>
-<h3>1.11 What is Attribute</h3>
+
+<h3>Lecture 02:<h3>
+     
+<h3>2.1 What is Attribute</h3>
     An attribute provides extra information about an HTML tag.<br>
     Attributes are written inside the start tag.<br>
 
@@ -165,7 +153,7 @@ Here<br>
 <b>href</b> is an attribute.
 <br>
 
-<h3>1.12 HTML Attributes</h3>
+<h3>2.2 HTML Attributes</h3>
 Attributes are always written as:<br>
 name="value"<br>
 <b>Example:</b>
@@ -179,4 +167,19 @@ name="value"<br>
 1. src : image location<br>
 2. alt : image description<br>
 3. width:image size<br>
+
+<h3>2.3HTML Formatting Tags:</h3>
+Used to style text.<br>
+
+| Tag        | Use                        |
+|------------|----------------------------|
+| `<b>`      | Bold text                  |
+| `<strong>` | Important (bold) text      |
+| `<i>`      | Italic text                |
+| `<em>`     | Emphasized text            |
+| `<u>`      | Underline                  |
+| `<mark>`   | Highlight text             |
+| `<small>`  | Small text                 |
+
+
 
