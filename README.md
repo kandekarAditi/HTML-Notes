@@ -193,16 +193,19 @@ Used to style text.<br>
 Used to <b>write notes in code (not visible in browser)</b><br>
 
 <h3>✅ Example</h3><br>
+## 💬 Comment Example
+
 ```html
-<!-- This is a comment --><br>
-<p>Hello Students</p><br>
+<!-- This is a comment -->
+<p>Hello Students</p>
+```
 
 <h3>2.5HTML Links</h3>
 Used to<b> connect one page to another</b><br>
-Tag: <a><br>
-Attributes:<br.
-    href → link address<br>
-    target="_blank" → open in new tab<br>
+Tag: `<a>` <br>
+Attributes:<br>
+    `href`→ link address<br>
+   `target="_blank"` → open in new tab<br>
 
 
 
