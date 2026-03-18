@@ -318,7 +318,7 @@ Values:
 4.none<br>
 <h3>✅ Example:</h3><br>
 ```html
-<ol type="A" start="3">
+<ol>
   <li>Apple</li>
   <li>Mango</li>
 </ol>
@@ -327,7 +327,7 @@ Values:
 <h3>Description List (Definition List):</h3>
 Used to define terms and descriptions.<br>
 Tags Used:<br>
-1. &lt;dl&gt; → Description List  
-2. &lt;dt&gt; → Term  
-3. &lt;dd&gt; → Description  
+1. &lt;dl&gt; → Description List  <br>
+2. &lt;dt&gt; → Term  <br>
+3. &lt;dd&gt; → Description<br>  
 
