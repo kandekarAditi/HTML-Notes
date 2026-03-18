@@ -259,8 +259,38 @@ Tag Used: &lt;ol&gt;<br>
 ```
 <br>
 <h3>🔸 Ordered List Attributes</h3>
-<b>type</b> → Type of numbering  <br>
+<b>type</b> → Type of numbering  <br><br>
   <b>Example</b>: A, a, I, i, 1  <br>
+
+  <h3></h3>
 
 <b>start</b> → Starting number <br> 
   Example: `start="5"`  <br>
+
+<h3>What is type?</h3>
+type is used to change numbering style in an ordered list.<br>
+✅ Values:<br>
+1 → Numbers (1, 2, 3) (default)<br>
+A → Capital letters (A, B, C)<br>
+a → Small letters (a, b, c)<br>
+I → Roman (I, II, III)<br>
+i → Small Roman (i, ii, iii)<br>
+<h3>✅ Example:</h3><br>
+```html
+<ol type="A">
+  <li>Apple</li>
+  <li>Mango</li>
+</ol>
+```
+<br>
+<h3>What is start?</h3>
+start is used to set the starting number of the list.<br>
+
+📌 Example:<br>
+```html
+<ol start="5">
+  <li>Item</li>
+  <li>Item</li>
+</ol>
+```
+
