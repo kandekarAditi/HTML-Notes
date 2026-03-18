@@ -207,5 +207,11 @@ Attributes:<br>
     `href`→ link address<br>
    `target="_blank"` → open in new tab<br>
 
+<h3>✅ Example:</h3>
 
+```html
+<a href="https://google.com">Open Google</a><br>
+<a href="https://google.com" target="_blank">Open in New Tab</a>
+```
+<br>
 
