@@ -219,7 +219,7 @@ Attributes:<br>
 <b></b>Used to display images</b><br>
 
 <h3></h3> 🖼️ Image Tag</h3><br>
-Tag: `<img>` (empty tag)<br>
+Tag: &lt;img&gt; (empty tag)<br>
 
 <h3>📌 Attributes:</h3>
 
